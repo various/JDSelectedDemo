@@ -1,4 +1,4 @@
 dependencies: \
-  /Users/apple/Desktop/JDSelectDemo/JDSelectDemo/MGBaseViewController.m \
-  /Users/apple/Desktop/JDSelectDemo/JDSelectDemo/PrefixHeader.pch \
-  /Users/apple/Desktop/JDSelectDemo/JDSelectDemo/MGBaseViewController.h
+  /Users/apple/Desktop/JDSelectedDemo/JDSelectDemo/MGBaseViewController.m \
+  /Users/apple/Desktop/JDSelectedDemo/JDSelectDemo/PrefixHeader.pch \
+  /Users/apple/Desktop/JDSelectedDemo/JDSelectDemo/MGBaseViewController.h
